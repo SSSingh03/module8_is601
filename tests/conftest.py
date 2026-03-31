@@ -1,4 +1,4 @@
-# tests/e2e/conftest.py
+# tests/conftest.py
 
 import subprocess
 import time
