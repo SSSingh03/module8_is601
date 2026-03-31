@@ -4,7 +4,7 @@
 
 # 🧩 1. Install Homebrew (Mac Only)
 
-> Skip this step if you're on Windows.
+> Skip this step if you're on Windows
 
 Homebrew is a package manager for macOS.  
 You’ll use it to easily install Git, Python, Docker, etc.
